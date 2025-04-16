@@ -1,4 +1,4 @@
-# 🍽️ LA Restaurant Explorer
+# 🍽️ My Favorite LA Restaurants
 
 This is a simple, interactive web app that showcases a collection of my favorite restaurants in Los Angeles! Built with HTML, CSS, and JavaScript, it features search, sort, and customization options for exploring restaurants by cuisine, rating, and more.
 
@@ -22,9 +22,11 @@ This site is live on GitHub Pages:
 👉 https://boliuv5.github.io/la_restaurants/
 
 ## 📁 Project Structure
-la_restaurants/ ├── index.html ├── style.css ├── script.js ← this file └── README.md
+
+la_restaurants/ ├── index.html ├── style.css ├── script.js  → this file └── README.md
 
 
 ## ✨ Credits
+
 Created with ❤️ by Bo Liu.
 
